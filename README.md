@@ -1,4 +1,4 @@
-Privacy-Policy
+# Privacy-Policy
 
 Ammolit built the Image mixer app as a Commercial app. This SERVICE is provided by Ammolit and is intended for use as is.
 
